@@ -1,5 +1,4 @@
--- Q1:
-SELECT 1;
+
 -- Q1: List all customers from Mumbai along with their total order value
 
 SELECT c.customer_name,
