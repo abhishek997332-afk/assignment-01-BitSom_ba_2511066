@@ -1,4 +1,3 @@
-## ETL Process
 ## ETL Decisions
 
 ### Decision 1 — Date Format Standardization
